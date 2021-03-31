@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ayanuali
+- 👀 I’m interested in Java, Android, Flutter, React Native, and Swift.
+- 🌱 I’m currently learning Flutter and React Native. Also, Swift.
+- 💞️ I’m looking to collaborate on Java.
+- 📫 You can reach me at ayanuali@gmail.com
