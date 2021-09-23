@@ -2,4 +2,5 @@
 - 👀 I’m interested in Java, Kotlin (Android), Swift (iOS), Flutter, and React Native.
 - 🌱 I’m currently learning Kotlin and React Native. Also, sometimes Flutter and Swift.
 - 💞️ I’m looking to collaborate on Java, Kotlin.
+- 💻 curious about NFT, blockchain
 - 📫 You can reach me at ayanuali@gmail.com
