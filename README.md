@@ -24,13 +24,12 @@ Based in Almaty 🇰🇿 · Sometimes Dubai · Occasionally not sleeping.
 | **[Ospite](https://ospite.app)** | AI hotel receptionist, direct booking via messaging | Go · Supabase · Claude API · Browser-Use |
 | **LexAI** | AI legal assistant | Go · LLM |
 | **[Pulse-d](https://pulse-d.app)** | Solana app · hackathon submission | Rust · Solana · React |
-| **Winks.fun** | Solana Blinks for EVM, Telegram bot · $50K MRR | Solana · TypeScript · Go |
+| **[Winks.fun](https://winks.fun)** | Solana Blinks for EVM, Telegram bot · $50K MRR · $150K from IOSG Ventures | Solana · TypeScript · Go |
 | **Jump / SAUAPP** | Basketball stats & tournament management platform | Java · Flutter · PostgreSQL |
-| **NobleLife** | Lifestyle app | Flutter |
+| **NobleLife** | Lifestyle app · CTO | Java · Flutter · JavaScript |
 | **MyneTech** | B2B SaaS · $2M+ raised (Singapore) | — |
-| **GuestBot** | WhatsApp hotel bot (pre-Ospite) | Go · Supabase |
-| **RhinoSpider** | Web3 data collection on ICP | Internet Computer · Motoko |
-| **Parqour** | Parking infra · 300+ locations · ANPR + WireGuard VPN | Go · MikroTik |
+| **RhinoSpider** | Web3 data collection on ICP · $150K grant | Internet Computer · Motoko |
+| **Parking platform** | ANPR-based parking infra · 300+ locations · WireGuard VPN | Go · MikroTik |
 | Various hackathons | Stacks · 0G Apollo · Solana Foundation · Kaggle Gemma 4 | depends on the week |
 
 ---
@@ -68,4 +67,4 @@ Java · Spring Boot · Kotlin · Swift · React Native · Vue.js · Firestore ·
 
 📧 ayanuali@gmail.com · 🌐 [ospite.app](https://ospite.app)
 
----
+
