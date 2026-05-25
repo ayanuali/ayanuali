@@ -58,8 +58,3 @@ System architecture · AI agent design · Parking tech (yes, really) · Blockcha
 📧 ayanuali@gmail.com  
 🌐 [ospite.app](https://ospite.app)  
 💼 [linkedin.com/in/ayanuali](https://linkedin.com/in/ayanuali)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayanuali&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanuali&layout=compact&theme=dark&hide_border=true)
